@@ -18,7 +18,7 @@ I did this project to develop my skills as a programmer and also to create a lin
 <br>
 
 <p align="center">
-  <img alt="bussinescard" src=".github/preview.jpg" width="100%">
+  <img alt="bussinescard" src="github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
